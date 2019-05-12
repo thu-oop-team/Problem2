@@ -1,0 +1,2 @@
+Detailed description of the software design (pdf) needs to be put in
+directory doc.

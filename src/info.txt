@@ -1,0 +1,1 @@
+All the source codes including makefile need to be put in directory src.
